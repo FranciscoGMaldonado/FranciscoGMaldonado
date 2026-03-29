@@ -44,12 +44,12 @@ aboutMe = {
 
 <h2 align="center">Contact</h2>
 <p align="center">
-    <a href="www.linkedin.com/in/franciscogmaldonado">
-        <img src="https://img.shields.io/badge/-in/franciscogmaldonado-6633cc?style=flat-square&color=0A66C2&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscogmaldonado" target="_blank" style="margin-right: 4"/>
-    </a>
-    <a href="mailto:francisco.guaturamaldonado@gmail.com">
-        <img src="https://img.shields.io/badge/-francisco.guaturamaldonado@gmail.com-6633cc?style=flat-square&color=EA4335&logo=Gmail&logoColor=white&link=mailto:francisco.guaturamaldonado@gmail.com" target="_blank" style="margin-right: 4"/>
-    </a>
+  <a href="https://www.linkedin.com/in/franciscogmaldonado">
+    <img src="https://img.shields.io/badge/-in/franciscogmaldonado-6633cc?style=flat-square&color=0A66C2&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscogmaldonado" style="margin-right: 4"/>
+  </a>
+  <a href="mailto:francisco.guaturamaldonado83@gmail.com">
+    <img src="https://img.shields.io/badge/-francisco.guaturamaldonado83@gmail.com-6633cc?style=flat-square&color=EA4335&logo=Gmail&logoColor=white&link=mailto:francisco.guaturamaldonado83@gmail.com" style="margin-right: 4"/>
+  </a>
 </p>
 
 <hr>
